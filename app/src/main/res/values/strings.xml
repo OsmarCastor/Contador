@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Omegalul</string>
+    <string name="titulo_form">Contador xD</string>
+    <string name="conteo">0</string>
+    <string name="txtBoton">Aumentar</string>
+    <string name="reset">¿Reiniciar Conteo?</string>
+</resources>
